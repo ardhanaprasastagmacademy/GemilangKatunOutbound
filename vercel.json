@@ -7,26 +7,21 @@
     { "source": "/blog", "destination": "/blog.html" },
     { "source": "/kontak", "destination": "/kontak.html" },
 
-    "detail-paket-perusahaan",
     { "source": "/paket-team-building", "destination": "/paket-team-building.html" },
     { "source": "/paket-corporate-gathering", "destination": "/paket-corporate-gathering.html" },
     { "source": "/paket-employee-gathering", "destination": "/paket-employee-gathering.html" },
 
-    "detail-paket-sekolah",
     { "source": "/paket-outbound-sekolah", "destination": "/paket-outbound-sekolah.html" },
     { "source": "/paket-study-tour", "destination": "/paket-study-tour.html" },
 
-    "detail-paket-keluarga",
     { "source": "/paket-family-gathering", "destination": "/paket-family-gathering.html" },
     { "source": "/paket-camping-keluarga", "destination": "/paket-camping-keluarga.html" },
 
-    "detail-paket-organisasi",
     { "source": "/paket-amazing-race", "destination": "/paket-amazing-race.html" },
     { "source": "/paket-paintball", "destination": "/paket-paintball.html" },
     { "source": "/paket-fun-offroad", "destination": "/paket-fun-offroad.html" },
     { "source": "/paket-rafting", "destination": "/paket-rafting.html" },
 
-    "blog-articles",
     { "source": "/blog-5-manfaat-outbound", "destination": "/blog-5-manfaat-outbound.html" },
     { "source": "/blog-tips-lokasi-outbound", "destination": "/blog-tips-lokasi-outbound.html" },
     { "source": "/blog-perbedaan-outbound-gathering", "destination": "/blog-perbedaan-outbound-gathering.html" },
